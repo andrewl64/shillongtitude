@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+Name: Andrew Lyndem
+
+                            
+Site: shillongtitude@gmail.com
+
+                            
+StackOverflow: https://stackoverflow.com/users/4114907/andrewl64
+                         
+
+# THANKS
+
+    Shillongtitude
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JavaScript
+    Modernizr, Normalize.css
