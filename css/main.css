@@ -254,7 +254,7 @@ footer div {width: 80%; margin: 0 auto; color: #FFF; font-size: 1.5em;}
     .mobList li:hover {background-color: #129187;}
     .mobList li:hover a {color: #FFF;}
 }
-
+i {background-color: #129187;border-radius: 50%;padding: 0.8em;border: 0.1em solid #000;}
 
 
 
