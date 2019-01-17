@@ -191,8 +191,9 @@ main section p {font-size: 1.5em;}
 }
 .feedback img {
     border-radius: 50%;
-    width: 4em;
-    height: 4em;
+    width: 7em;
+    height: 7em;
+    border: 0.32em solid #129187;
 }
 .feedInfo {
     display: flex; justify-content: center; align-items: center;
